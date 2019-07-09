@@ -1,0 +1,8 @@
+-A5
+--remove-braces
+--align-pointer=name
+--pad-oper
+--break-blocks
+--pad-header
+--delete-empty-lines
+--max-code-length=120
